@@ -144,7 +144,7 @@ onCompletion
 
 
 /////////////////////////////////////////////////////////////////////////////
-fun main() = runBlocking {
+fun main017() = runBlocking {
     launch {
         flow {
             emit(1)
